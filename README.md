@@ -1,2 +1,2 @@
-# Practical-Projects
+# Student-Performance-Linear-Regression
 
